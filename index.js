@@ -55,7 +55,7 @@ function selectAnswer(answer) {
     alert('Correct!');
     correctAnswersCounter++;
   } else {
-    alert('Wrong Answer, try again');
+    alert('Wrong Answer');
   }
 
   currentQuestionIndex++;
